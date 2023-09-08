@@ -1,6 +1,9 @@
 # planeo-simple-go
 This is a simple go app that runs on port `:8080`
 
+## requirements
+go version `go1.19.1`
+
 ## usage
 `go run main.go`
 
